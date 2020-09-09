@@ -1,4 +1,4 @@
-# SEEK_Data_Scrapper
+# SEEK_Job_Ads_Data_Scrapper
 Python script to scrap job info from seek.com.au
 
 Please start by running Data_Scraper.py.
